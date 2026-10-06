@@ -40,8 +40,23 @@ Most late B2B invoices aren't refusals. They're stuck behind a stalled approval,
 
 Works with Gmail, Outlook, Microsoft Teams, Slack, Coupa, NetSuite, SAP, QuickBooks, Stripe, Sequence, Brex, Mercury, Chase, and Plaid.
 
+## Guides
+
+Practical answers for AR teams, written from the work Alder does every day:
+
+- [Coupa invoice rejected: common causes and how suppliers fix them](https://meetalder.com/blog/coupa-invoice-rejected)
+- [How to automate Ariba invoice submission (and fix rejections)](https://meetalder.com/blog/ariba-invoice-submission)
+- [How to handle short-pays and deductions in B2B accounts receivable](https://meetalder.com/blog/short-pays-and-deductions)
+- [How to track promises to pay in B2B collections](https://meetalder.com/blog/track-promises-to-pay)
+
+## Free tools
+
+- [DSO calculator](https://meetalder.com/tools/dso-calculator): days sales outstanding, days beyond terms, and the cash freed by reaching a target DSO.
+- [Past-due invoice email templates](https://meetalder.com/tools/past-due-invoice-email-templates): seven payment reminders, from a friendly reminder to a final notice.
+- [alder-invoices-agent](https://github.com/nivara-tech/alder-invoices-agent): free invoice templates, drafts, and PDFs for Claude Code, Codex, and other MCP clients.
+
 ## Company
 
-Alder (formerly Nivara) is based in San Francisco and is part of Y Combinator's Fall 2025 batch. It was founded by Tejas Agarwal (CEO) and Pankaj Mishra (CTO), both formerly engineers at Uber.
+Alder (formerly Nivara) is based in San Francisco and is part of Y Combinator's Fall 2025 batch. It was founded by Tejas Agarwal (CEO) and Pankaj Mishra (CTO), both formerly engineers at Uber. The company's legal name is Nivara Tech, Inc., which is why this GitHub organization is `nivara-tech`.
 
-**[Book a demo →](https://cal.com/tejas-ag/30min)**
+**[Book a demo →](https://meetalder.com/demo)**
